@@ -3,6 +3,7 @@
     width: 150px;
     height: 150px;
 }
+
 .image-div{
     text-align: right;
     margin-top: -120px;
@@ -64,6 +65,19 @@ button{
     margin-top: -550px;
     margin-right: 200px;
 }
+
+.desc2{
+    text-align: right;
+    margin-top: -700px;
+    margin-right: 300px;
+}
+
+.desc3{
+    text-align: right;
+    margin-top: -700px;
+    margin-right: 220px;
+}
+
 .img{
     width: 700px;
     object-fit: cover;
